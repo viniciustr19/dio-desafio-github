@@ -1,0 +1,3 @@
+Link download git: https://git-scm.com/downloads
+
+Git Bash é um terminal para otimização do Git
